@@ -1,7 +1,7 @@
 <h1 align="center">My LeetCode Journey</h1>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/boomikathangavel2005@gmail.com?ext=contest&theme=light&animation=true&font=baloo&border=1&radius=30" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Boomika2611?ext=contest&theme=light&animation=true&font=baloo&border=1&radius=30" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
